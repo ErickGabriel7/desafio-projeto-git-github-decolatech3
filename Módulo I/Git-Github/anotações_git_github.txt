@@ -7,3 +7,7 @@ https://blog.geekhunter.com.br/comandos-git-mais-utilizados/
 
 Correção do erro ssh
 https://careerkarma.com/blog/git-fatal-could-not-read-from-remote-repository/#:~:text=The%20Git%20“fatal%3A%20Could%20not,repository%20using%20the%20correct%20URL.
+
+Para não esquecer: no comando 
+git push origin master
+git push <url do repositorio> <branch>
