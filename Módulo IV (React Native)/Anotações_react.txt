@@ -1,0 +1,17 @@
+Documentação expo
+https://docs.expo.dev/
+
+app para android:
+https://play.google.com/store/apps/details?id=host.exp.exponent
+
+comando para criar um projeto no expo:
+expo init <nome-do-projeto> 
+
+iniciar a aplicação
+npm start
+
+executar a aplicação
+expo start 
+
+Comandos git
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
